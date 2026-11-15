@@ -2,7 +2,7 @@
 ## Title: Buff Food Alert
 ## Notes: Warns when the player does not have a food buff.
 ## Author: atr2982
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: BUFF_FOOD_ALERT_DB
 
 BuffFoodAlert.lua

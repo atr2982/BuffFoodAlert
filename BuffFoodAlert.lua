@@ -15,7 +15,7 @@ local SetupOptions
 
 local alert = CreateFrame("Frame", "BuffFoodAlertFrame", UIParent)
 alert:SetSize(260, 42)
-alert:SetPoint("TOP", UIParent, "TOP", 0, -100)
+alert:SetPoint("TOP", UIParent, "TOP", 0, -60)
 alert:SetFrameStrata("HIGH")
 alert:Hide()
 
